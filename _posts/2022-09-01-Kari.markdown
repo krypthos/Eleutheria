@@ -1,0 +1,33 @@
+---
+layout: post
+---
+<img src="{{ site.baseurl }}/images/pic02.jpg" class="fit image">
+#Esittely #ITtuki #Linux #Ilmaisohjelmat #FOSS #Kotisivut #WP #HTML #Web3 #IPFS #Kryptot #Lohkoketjut #UusiSome #UudetJulkaisualustat #VaihtoehtoNykyiselle #EleutheriaNetwork #LohkoHelp
+
+Moikka! Mun nimi on Kari!
+
+Mä olen erikoistunut (20+ vuotta) monenlaiseen tietokone-netti-jumppaan eli eräänlainen data-IT-nörtti, mikä tässä kohtaa voi olla ihan hyväkin asia. ;) 
+
+Jos koet tarvitseasi apua IT-asioissa, niin olen käytettävissä sopivaa kohtuullista korvausta vastaan.
+
+Jos olet miettinyt, että kuinka vapautua osittain tai kokonaan nykyisen kaltaisesta monopolien ja rajoitusten täyttämästä IT-maailmasta, niin mun ehdotus voisi olla, että asennetaan sun koneeseen Linux, OpenOffice ja muita erilaisia tarpeisiisi sopivia ilmaisohjelmia, Protonmail-sähköposti jne. Selaimeksi suosittelen tässä kohtaa Brave-nimistä selainta.
+
+Videoiden/striimien tekoon/julkaisuun voisi käyttää vaikka OBS – Kdenlive – Odysee/LBRY-vaihtoehtoa. 
+
+Ns. ilmaisia FOSS-ohjelmia on runsaasti ja vaikka kaikki hienoimmat ominaisuudet niistä ehkä puuttavatkin, niin vapaan ihmisen työkaluiksi ne ovat aivan täysin kelpoja. Kyse onkin vain siitä, että viitsii opetella uuden asian ja elää sit niiden ominaisuuksien kanssa. Esim. Photoshop voidaan korvata Gimp ohjelmalla. Äänityöskentelyyn Ardour on erinomainen vaihtoehto.
+
+Myös puhelimeen voidaan rohkeimmille asentaa Ubuntu Touch. Tottakai sieltä puuttuu kaikki hienoimmat appit, mutta sepäs ei olekaan se pointti tässä kohtaa. Tällä hetkellä itse käytän puhelinta vain puhelimena ilman seuranta-ominaisuuksia.
+
+Voit halutessasi opetella ostamaan perunat ja porkkanat naapuriltasi Einolta kryptoilla. Eli tässä kohtaa krypto ei ole mikään sijoitus-instrumentti vaan kanava, mitä pitkin arvo kulkee salamannopeasti jos kun sattuneesta syystä pankkipalvelut on alhaalla. Voit muuttaa eurot coineiksi, siirtää ne Einolle ja Eino muuttaa ne takaisin euroiksi. Lopputulos, että kukaan ei hävinnyt euroakaan, mutta varat siirtyivät uuteen osoitteeseen nopeasti ja turvallisesti. Mä haluan, että sä opit näkemään kryptot uudella tavalla ja mieluummin toimivana työkaluna kuin sijoitus-instrumenttina. 
+
+Ja ehkä huomasit, että en maininnut minkään krypton nimeä. Se johtuu siitä, että edustan niitä kaikkia ja en mitään niistä. Toisin sanoen käytän vain ohjelmia ja työkaluja, mitkä toimii todistetusti tänään. Jos se muuttuu huomenna, niin sitten me vaihdetaan työkalua. Mun mielestä lohkoketjuteknologia on hienointa mitä ihminen on keksinyt. Mutta se on ihan totta, että koko ala on vielä vaipoissa ja opettelee kävelemään. Siksi on syytäkin olla hereillä.
+
+Ja mun mielestä se koskee vähän niinku kaikkia asioita. Muutetaan toimintamalleja sen mukaan kuin on tarpeellista. Pidetään silmät auki moneen suuntaan ja ollaan tietoisia, mitä ympärillä tapahtuu.
+
+Ainoa asia, mihin mä sitoudun on asiakas eli Sinä, jotta saadaan rakennettua Sulle parhaat mahdolliset ratkaisut sillä hetkellä. Ja se saa muuttua ja elää matkan varrella Sun tarpeiden mukaan.
+
+Maailma ei muutu jos ei sitä itse lähde muuttamaan kaikilla osa-alueilla. Data- ja IT-puolella se voisi tarkoittaa juurikin sitä, että siirtyy askel/ohjelma kerrallaan käyttämään jotain muuta kuin mainstream-brändiä. Vanha viidakon sanonta onkin, että kun kansa alkaa äänestää jaloilla/lompakoilla, niin alkaa tapahtumaan asioita. 
+
+Mun koko nimi, naama ja yhteystiedot löytyy näistä osoitteista sivun alareunasta: https://eleutheria.network tai https://lohko.help. En siis ole tuntematon/kasvoton olio vaikka Telegram profiilissa onkin vain yritykseni (lohko.help) tiedot.
+
+P.S. Meillä alkaa näihin asioihin liittyvä koulutus (eleutheria.network) syyskuussa. Lähde mukaan jos yhtään kiinnostaa. Ja vaihtoehtoisesti voit lähestyä mua myös ihan privaatisti, niin hoidetaan sun IT-puoli kuntoon kaikessa hiljaisuudessa. Koskee niin yksilöitä kuin yhdistyksiä ja yrityksiä.
