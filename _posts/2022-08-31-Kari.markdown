@@ -5,8 +5,6 @@ date: 2022-09-01 14:37:44
 categories: esittely
 ---
 <img src="{{ site.baseurl }}/images/pic02.jpg" class="fit image">
-#Esittely #ITtuki #Linux #Ilmaisohjelmat #FOSS #Kotisivut #WP #HTML #Web3 #IPFS #Kryptot #Lohkoketjut #UusiSome #UudetJulkaisualustat #VaihtoehtoNykyiselle #EleutheriaNetwork #LohkoHelp
-
 Moikka! Mun nimi on Kari!
 
 Mä olen erikoistunut (20+ vuotta) monenlaiseen tietokone-netti-jumppaan eli eräänlainen data-IT-nörtti, mikä tässä kohtaa voi olla ihan hyväkin asia. ;) 
