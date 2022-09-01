@@ -1,5 +1,8 @@
 ---
 layout: post
+title: "Kari"
+date: 2022-09-01 14:37:44
+categories: esittely
 ---
 <img src="{{ site.baseurl }}/images/pic02.jpg" class="fit image">
 #Esittely #ITtuki #Linux #Ilmaisohjelmat #FOSS #Kotisivut #WP #HTML #Web3 #IPFS #Kryptot #Lohkoketjut #UusiSome #UudetJulkaisualustat #VaihtoehtoNykyiselle #EleutheriaNetwork #LohkoHelp
