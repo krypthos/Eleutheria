@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Kari"
 date: 2022-08-31 14:37:44
 categories: esittely
